@@ -4,8 +4,4 @@ numpy
 scikit-learn
 scipy
 requests
-ydata_profiling
-seaborn
-matplotlib.pyplot
-wordcloud
 pickle
